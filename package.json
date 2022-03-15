@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "module": "es2022",
+  "target": "es2017",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
